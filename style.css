@@ -1,5 +1,28 @@
+nav {
+    background-color: rgb(33, 168, 221);
+    height: 50px;
+}
+.navbarContainer {
+    width: 960px;
+    height: 50px;
+    /* background-color: white; */
+    margin: 0px auto;
 
+}
 
 h1 {
+    clear: both;
     color: red;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    
 }
