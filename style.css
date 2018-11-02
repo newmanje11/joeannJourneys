@@ -25,14 +25,33 @@ nav {
 
     /* Color */
     /* background-color: rgb(22, 24, 26); */
-    color: white; 
-    text-align: center;
+    color: palevioletred; 
+    
     
 
     /* Border */
     /* border-color: white;
     border-style: solid;
     border-width: 2px; */
+
+    }
+    h1 {
+        text-align: center;
+        color: white;
+    }
+
+
+
+
+
+    .searchForm {
+        width: 600px;
+        height: 50px;
+        /* background-color: white; */
+        margin: 0px auto;
+
+        background-color: rgb(22, 24, 26)
+
 
     }
     .area{
@@ -46,10 +65,11 @@ nav {
     
         }
 
-        .searchform {
+        .next-container {
             width: 100%;
             height: 750px;
             background-color: rgb(236, 236, 236);
+            margin-top: 15px;
 
 
 
